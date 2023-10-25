@@ -3,8 +3,7 @@
 
 ### Web Developer
 
-
-
+## Technologies 🛠
 
 <p align="left">
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -97,6 +96,8 @@
             </a>
         </p>
 
+## Statisticks 📊
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kifoxive&count_private=true&show_icons=true&theme=radical" />
 </a>
@@ -104,7 +105,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifoxive" />
 </a>
-![](https://komarev.com/ghpvc/?username=kifoxive&color=lightgrey&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=Kifoxive&color=lightgrey&style=for-the-badge)
 
 <!---
 Kifoxive/Kifoxive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
