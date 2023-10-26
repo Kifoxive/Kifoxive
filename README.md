@@ -1,10 +1,10 @@
 
 
-<p style="color: white;"># Hi, I am Yura 👋🏻</p>
+# <p style="color: white;"> Hi, I am Yura 👋🏻</p>
 
-<p style="color: white;">## Technologies 🛠</p>
+## <p style="color: white;">Technologies 🛠</p>
 
-<p style="display: flex; justify-content: center; padding: 15px">
+<p>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <img
                     style="background-color: transparent"
@@ -106,7 +106,7 @@
             </a>
         </p>
 
-<p style="color: white;">## Statistics 📊</p>
+## <p style="color: white;">Statistics 📊</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kifoxive&count_private=true&show_icons=true&theme=radical" />
